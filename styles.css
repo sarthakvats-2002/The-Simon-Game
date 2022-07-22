@@ -3,8 +3,8 @@ body {
   background-color: #011F3F;
 }
 
-.row{
- display: flex; 
+.styling {
+ display: flex !important; 
 }
 
 #level-title {
